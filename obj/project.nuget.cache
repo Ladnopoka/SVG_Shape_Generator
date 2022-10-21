@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "luXxFzHwfJsT3AE03poUhqoHPJ4oMsgKlAVrPN586s9IibdbkvjgCI33Fd+OPLZNOtBeU5fgZUYCjFiEVnSWXg==",
+  "dgSpecHash": "9MnccVBUwew7sXgbVPNYl6UAqBOUkkAFSDbSEOw7C+MbwhIyYA36kIA6GuT1E6DkMDm9qe4O1FYhouTS2sn9cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\forGithub\\svgGenerator.csproj",
+  "projectFilePath": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\SVG_Shape_Generator_2\\svgGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

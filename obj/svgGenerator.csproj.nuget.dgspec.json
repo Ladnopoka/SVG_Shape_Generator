@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\forGithub\\svgGenerator.csproj": {}
+    "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\SVG_Shape_Generator_2\\svgGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\forGithub\\svgGenerator.csproj": {
+    "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\SVG_Shape_Generator_2\\svgGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\forGithub\\svgGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\SVG_Shape_Generator_2\\svgGenerator.csproj",
         "projectName": "svgGenerator",
-        "projectPath": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\forGithub\\svgGenerator.csproj",
+        "projectPath": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\SVG_Shape_Generator_2\\svgGenerator.csproj",
         "packagesPath": "C:\\Users\\ladno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\forGithub\\obj\\",
+        "outputPath": "C:\\Users\\ladno\\Desktop\\LearningC++\\CS264\\SVG_Shape_Generator_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ladno\\AppData\\Roaming\\NuGet\\NuGet.Config",
