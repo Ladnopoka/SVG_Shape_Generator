@@ -26,3 +26,25 @@ The SVG Shape Generator is a C# project designed to create and manipulate SVG sh
 Run the application through the command line. You will be prompted to choose an operation to perform:
 bash
 dotnet run
+
+1. Create a Shape
+2. Display a Shape
+3. Update a Shape
+4. Delete a Shape
+5. Create a Default Shape
+6. Group Shapes
+7. Ungroup Shapes
+8. Add Style to Group
+9. Add Text
+10. Export to SVG and finish
+
+# Contact
+## For any inquiries or feedback, feel free to reach out to:
+
+**Jevgenij Ivanov** <br>
+**Email**: ladnopokaa@gmail.com <br><br>
+**GitHub**: https://github.com/Ladnopoka <br>
+**itch.io**: https://ladnogames.itch.io/ <br>
+**YouTube**: https://www.youtube.com/@LadnoDev <br>
+**X**: https://x.com/Ladnopokaa <br>
+**Discord**: https://discord.gg/BPsncTZe
